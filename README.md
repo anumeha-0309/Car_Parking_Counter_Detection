@@ -1,6 +1,6 @@
 # Car_Parking_Counter_Detection
 
-# This project implements a computer vision-based system to monitor parking spaces, count parked vehicles, and detect availability in real time. It uses OpenCV for processing video streams or camera feeds, making it suitable for automated parking management systems.
+This project implements a computer vision-based system to monitor parking spaces, count parked vehicles, and detect availability in real time. It uses OpenCV for processing video streams or camera feeds, making it suitable for automated parking management systems.
 
 # Features
 **Vehicle Detection:** Detects cars entering and exiting parking spaces.
